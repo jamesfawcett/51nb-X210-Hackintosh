@@ -36,6 +36,10 @@ In order to achieve a stable sleep, you're responsible of disabling the followin
 
 Use `Brightness Slider` from App Store. Partially works but it's inverted. Unfortunately native brightness control isn't supported at this moment, interested developers might want to take a look at the DSDT and PNLF.
 
+**Middle Button Scrolling**
+
+Use `Smart Scroll`.
+
 ## What works
 
 - Full hardware acceleration
