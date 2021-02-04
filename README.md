@@ -19,7 +19,7 @@ Install macOS on your 51nb X210 frankenpads.
 - **X210 3000x2000 3K Display** Compatible and tested.
  
 ## Post-installation tweaks
-A few required or otherwise useful steps to take on a running macOS system on your OneMix:
+A few required or otherwise useful steps to take on a running macOS system on your ThinkPad:
 
 **Using your own serial number**
 
