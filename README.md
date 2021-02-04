@@ -2,7 +2,7 @@
 Install macOS on your 51nb X210 frankenpads.
 
 ## Requirement
-Latest 51nb BIOS with Patched EC.
+Latest 51nb BIOS with Patched EC and a working ME firmware.
 
 ## Compatibility
 
