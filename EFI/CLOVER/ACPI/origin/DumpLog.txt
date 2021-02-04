@@ -1,0 +1,128 @@
+11:489  0:125  Found UEFI Acpi 2.0 RSDP at 8A710000
+11:489  0:000  Saving ACPI tables from RSDP 8A710000 to EFI\CLOVER\ACPI\origin ...
+11:489  0:000   8A710000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+11:489  0:000    (Xsdt: 8A7100B8, Rsdt: 8A710028)
+11:489  0:000    8A7100B8: 'XSDT', 'TP-7U', Rev: 1, Len: 236
+11:489  0:000    8A710028: 'RSDT', 'TP-7U', Rev: 1, Len: 136
+11:489  0:000    Tables in Xsdt: 25
+11:489  0:000    0. 8A7367B0: 'FACP', 'TP-7U', Rev: 6, Len: 276
+11:489  0:000        (Dsdt: 8A710238, Facs: 8AA9BF00, XDsdt: 8A710238, XFacs: 0)
+11:489  0:000        8A710238: 'DSDT', 'TP-7U', Rev: 2, Len: 157046
+11:493  0:004        8AA9BF00: 'FACS', Ver: 2, Len: 64
+11:493  0:000    1. 8A7368C8: 'APIC', 'TP-7U', Rev: 3, Len: 188
+11:493  0:000    2. 8A736988: 'FPDT', 'TP-7U', Rev: 1, Len: 68
+11:493  0:000    3. 8A7369D0: 'FIDT', 'TP-7U', Rev: 1, Len: 156
+11:493  0:000    4. 8A736A70: 'MCFG', 'TP-7U', Rev: 1, Len: 60
+11:493  0:000    5. 8A736AB0: 'SSDT', 'SataTabl', Rev: 1, Len: 857
+11:493  0:000    6. 8A736E10: 'SLIC', 'TP-7U', Rev: 1, Len: 374
+11:493  0:000    7. 8A736F88: 'SSDT', 'SaSsdt', Rev: 2, Len: 12593
+11:493  0:000    8. 8A73A0C0: 'HPET', 'KBL-ULT', Rev: 1, Len: 56
+11:493  0:000    9. 8A73A0F8: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 2798
+11:493  0:000    10. 8A73ABE8: 'SSDT', 'xh_kbl-r', Rev: 2, Len: 1834
+11:493  0:000    11. 8A73B318: 'UEFI', 'TP-7U', Rev: 1, Len: 66
+11:493  0:000    12. 8A73B360: 'SSDT', 'PerfTune', Rev: 2, Len: 1904
+11:493  0:000    13. 8A73BAD0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+11:493  0:000    14. 8A73D280: 'LPIT', 'KBL-ULT', Rev: 1, Len: 148
+11:493  0:000    15. 8A73D318: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+11:493  0:000    16. 8A73D460: 'SSDT', 'sensrhub', Rev: 2, Len: 671
+11:493  0:000    17. 8A73D700: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+11:493  0:000    18. 8A740708: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1303
+11:493  0:000    19. 8A740C20: 'DBGP', '', Rev: 1, Len: 52
+11:493  0:000    20. 8A740C58: 'DBG2', '', Rev: 0, Len: 84
+11:493  0:000    21. 8A740CB0: 'DMAR', 'EDK2', Rev: 1, Len: 168
+11:493  0:000    22. 8A740D58: 'BGRT', 'TP-7U', Rev: 1, Len: 56
+11:493  0:000    23. 8A740D90: 'ASF!', ' HCG', Rev: 32, Len: 160
+11:493  0:000    24. 8A740E30: 'WSMT', 'TP-7U', Rev: 1, Len: 40
+11:493  0:000    Tables in Rsdt: 25
+11:493  0:000    0. 8A7101B0: 'FACP', 'TP-7U', Rev: 2, Len: 132
+11:493  0:000        (Dsdt: 8A710238, Facs: 8AA9BEC0)
+11:493  0:000        8A710238: 'DSDT', 'TP-7U', Rev: 2, Len: 157046
+11:497  0:004        8AA9BEC0: 'FACS', Ver: 0, Len: 64
+11:497  0:000    1. 8A7368C8: 'APIC', 'TP-7U', Rev: 3, Len: 188
+11:497  0:000    2. 8A736988: 'FPDT', 'TP-7U', Rev: 1, Len: 68
+11:497  0:000    3. 8A7369D0: 'FIDT', 'TP-7U', Rev: 1, Len: 156
+11:497  0:000    4. 8A736A70: 'MCFG', 'TP-7U', Rev: 1, Len: 60
+11:497  0:000    5. 8A736AB0: 'SSDT', 'SataTabl', Rev: 1, Len: 857
+11:497  0:000    6. 8A736E10: 'SLIC', 'TP-7U', Rev: 1, Len: 374
+11:497  0:000    7. 8A736F88: 'SSDT', 'SaSsdt', Rev: 2, Len: 12593
+11:497  0:000    8. 8A73A0C0: 'HPET', 'KBL-ULT', Rev: 1, Len: 56
+11:497  0:000    9. 8A73A0F8: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 2798
+11:497  0:000    10. 8A73ABE8: 'SSDT', 'xh_kbl-r', Rev: 2, Len: 1834
+11:497  0:000    11. 8A73B318: 'UEFI', 'TP-7U', Rev: 1, Len: 66
+11:497  0:000    12. 8A73B360: 'SSDT', 'PerfTune', Rev: 2, Len: 1904
+11:497  0:000    13. 8A73BAD0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+11:497  0:000    14. 8A73D280: 'LPIT', 'KBL-ULT', Rev: 1, Len: 148
+11:497  0:000    15. 8A73D318: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+11:497  0:000    16. 8A73D460: 'SSDT', 'sensrhub', Rev: 2, Len: 671
+11:497  0:000    17. 8A73D700: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+11:497  0:000    18. 8A740708: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1303
+11:497  0:000    19. 8A740C20: 'DBGP', '', Rev: 1, Len: 52
+11:497  0:000    20. 8A740C58: 'DBG2', '', Rev: 0, Len: 84
+11:497  0:000    21. 8A740CB0: 'DMAR', 'EDK2', Rev: 1, Len: 168
+11:497  0:000    22. 8A740D58: 'BGRT', 'TP-7U', Rev: 1, Len: 56
+11:497  0:000    23. 8A740D90: 'ASF!', ' HCG', Rev: 32, Len: 160
+11:497  0:000    24. 8A740E30: 'WSMT', 'TP-7U', Rev: 1, Len: 40
+11:497  0:000  Found UEFI Acpi 1.0 RSDP at 8A710000
+11:497  0:000  Printing ACPI tables from RSDP 8A710000 ...
+11:497  0:000   8A710000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+11:497  0:000    (Xsdt: 8A7100B8, Rsdt: 8A710028)
+11:497  0:000    8A7100B8: 'XSDT', 'TP-7U', Rev: 1, Len: 236
+11:497  0:000    8A710028: 'RSDT', 'TP-7U', Rev: 1, Len: 136
+11:497  0:000    Tables in Xsdt: 25
+11:497  0:000    0. 8A7367B0: 'FACP', 'TP-7U', Rev: 6, Len: 276
+11:497  0:000        (Dsdt: 8A710238, Facs: 8AA9BF00, XDsdt: 8A710238, XFacs: 0)
+11:497  0:000        8A710238: 'DSDT', 'TP-7U', Rev: 2, Len: 157046
+11:501  0:004        8AA9BF00: 'FACS', Ver: 2, Len: 64
+11:501  0:000    1. 8A7368C8: 'APIC', 'TP-7U', Rev: 3, Len: 188
+11:501  0:000    2. 8A736988: 'FPDT', 'TP-7U', Rev: 1, Len: 68
+11:501  0:000    3. 8A7369D0: 'FIDT', 'TP-7U', Rev: 1, Len: 156
+11:501  0:000    4. 8A736A70: 'MCFG', 'TP-7U', Rev: 1, Len: 60
+11:501  0:000    5. 8A736AB0: 'SSDT', 'SataTabl', Rev: 1, Len: 857
+11:501  0:000    6. 8A736E10: 'SLIC', 'TP-7U', Rev: 1, Len: 374
+11:501  0:000    7. 8A736F88: 'SSDT', 'SaSsdt', Rev: 2, Len: 12593
+11:501  0:000    8. 8A73A0C0: 'HPET', 'KBL-ULT', Rev: 1, Len: 56
+11:501  0:000    9. 8A73A0F8: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 2798
+11:501  0:000    10. 8A73ABE8: 'SSDT', 'xh_kbl-r', Rev: 2, Len: 1834
+11:501  0:000    11. 8A73B318: 'UEFI', 'TP-7U', Rev: 1, Len: 66
+11:501  0:000    12. 8A73B360: 'SSDT', 'PerfTune', Rev: 2, Len: 1904
+11:501  0:000    13. 8A73BAD0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+11:501  0:000    14. 8A73D280: 'LPIT', 'KBL-ULT', Rev: 1, Len: 148
+11:501  0:000    15. 8A73D318: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+11:501  0:000    16. 8A73D460: 'SSDT', 'sensrhub', Rev: 2, Len: 671
+11:501  0:000    17. 8A73D700: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+11:501  0:000    18. 8A740708: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1303
+11:501  0:000    19. 8A740C20: 'DBGP', '', Rev: 1, Len: 52
+11:501  0:000    20. 8A740C58: 'DBG2', '', Rev: 0, Len: 84
+11:501  0:000    21. 8A740CB0: 'DMAR', 'EDK2', Rev: 1, Len: 168
+11:501  0:000    22. 8A740D58: 'BGRT', 'TP-7U', Rev: 1, Len: 56
+11:501  0:000    23. 8A740D90: 'ASF!', ' HCG', Rev: 32, Len: 160
+11:501  0:000    24. 8A740E30: 'WSMT', 'TP-7U', Rev: 1, Len: 40
+11:501  0:000    Tables in Rsdt: 25
+11:501  0:000    0. 8A7101B0: 'FACP', 'TP-7U', Rev: 2, Len: 132
+11:501  0:000        (Dsdt: 8A710238, Facs: 8AA9BEC0)
+11:501  0:000        8A710238: 'DSDT', 'TP-7U', Rev: 2, Len: 157046
+11:506  0:004        8AA9BEC0: 'FACS', Ver: 0, Len: 64
+11:506  0:000    1. 8A7368C8: 'APIC', 'TP-7U', Rev: 3, Len: 188
+11:506  0:000    2. 8A736988: 'FPDT', 'TP-7U', Rev: 1, Len: 68
+11:506  0:000    3. 8A7369D0: 'FIDT', 'TP-7U', Rev: 1, Len: 156
+11:506  0:000    4. 8A736A70: 'MCFG', 'TP-7U', Rev: 1, Len: 60
+11:506  0:000    5. 8A736AB0: 'SSDT', 'SataTabl', Rev: 1, Len: 857
+11:506  0:000    6. 8A736E10: 'SLIC', 'TP-7U', Rev: 1, Len: 374
+11:506  0:000    7. 8A736F88: 'SSDT', 'SaSsdt', Rev: 2, Len: 12593
+11:506  0:000    8. 8A73A0C0: 'HPET', 'KBL-ULT', Rev: 1, Len: 56
+11:506  0:000    9. 8A73A0F8: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 2798
+11:506  0:000    10. 8A73ABE8: 'SSDT', 'xh_kbl-r', Rev: 2, Len: 1834
+11:506  0:000    11. 8A73B318: 'UEFI', 'TP-7U', Rev: 1, Len: 66
+11:506  0:000    12. 8A73B360: 'SSDT', 'PerfTune', Rev: 2, Len: 1904
+11:506  0:000    13. 8A73BAD0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+11:506  0:000    14. 8A73D280: 'LPIT', 'KBL-ULT', Rev: 1, Len: 148
+11:506  0:000    15. 8A73D318: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+11:506  0:000    16. 8A73D460: 'SSDT', 'sensrhub', Rev: 2, Len: 671
+11:506  0:000    17. 8A73D700: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+11:506  0:000    18. 8A740708: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1303
+11:506  0:000    19. 8A740C20: 'DBGP', '', Rev: 1, Len: 52
+11:506  0:000    20. 8A740C58: 'DBG2', '', Rev: 0, Len: 84
+11:506  0:000    21. 8A740CB0: 'DMAR', 'EDK2', Rev: 1, Len: 168
+11:506  0:000    22. 8A740D58: 'BGRT', 'TP-7U', Rev: 1, Len: 56
+11:506  0:000    23. 8A740D90: 'ASF!', ' HCG', Rev: 32, Len: 160
+11:506  0:000    24. 8A740E30: 'WSMT', 'TP-7U', Rev: 1, Len: 40
