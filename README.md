@@ -1,5 +1,6 @@
 # 51nb-X210-Hackintosh
 Install macOS on your 51nb X210 frankenpads.
+
 EOL Notice: I don't have the hardware anymore so the support for this EFI configuration is ended until someone forks it.
 
 ## Requirement
